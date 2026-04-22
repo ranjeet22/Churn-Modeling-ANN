@@ -1,6 +1,6 @@
 # Churn-Modeling-ANN
 
-This repository contains an implementation of an Artificial Neural Network (ANN) for predicting customer churn using Python and TensorFlow/Keras. The model is trained on the popular "Churn_Modelling.csv" dataset, which contains data from a bank’s customers to predict whether a customer will exit (churn) or not.
+This repository contains an implementation of an Artificial Neural Network ANN for predicting customer churn using Python and TensorFlow/Keras. The model is trained on the popular "Churn_Modelling.csv" dataset, which contains data from a bank’s customers to predict whether a customer will exit (churn) or not.
 
 ## Table of Contents
 
