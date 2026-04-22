@@ -91,7 +91,7 @@ The goal of this project is to build an ANN that accurately predicts customer ch
     cd Churn-Modeling-ANN
     ```
 
-2. Ensure you have the required libraries installed (see below).
+2. Ensure you have the required libraries installed (see below)
 
 3. Place the `Churn_Modelling.csv` file in the same directory as the notebook.
 
